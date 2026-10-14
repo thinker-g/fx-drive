@@ -1029,7 +1029,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CUU-GR-Details" id="XlxI6k-zE8VkLCo2kSt5">
-    <mxGraphModel dx="1027" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1504" dy="970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="g5ZfA2p0QNNhklUt6pOT-0" />
         <mxCell id="g5ZfA2p0QNNhklUt6pOT-1" parent="g5ZfA2p0QNNhklUt6pOT-0" />
@@ -2382,6 +2382,9 @@
         </mxCell>
         <mxCell id="Hs0qNv5d17JNc1YVFzEI-10" parent="g5ZfA2p0QNNhklUt6pOT-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Control Unit: ISS" vertex="1">
           <mxGeometry height="30" width="160" x="200" y="100.18" as="geometry" />
+        </mxCell>
+        <mxCell id="TS_ECA_0_Zaa5aShyD-T-0" parent="g5ZfA2p0QNNhklUt6pOT-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;a href=&quot;data:page/id,jvXGihns3M402mvdKXlm&quot;&gt;# Go to approver page&lt;/a&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="2010" y="710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
